@@ -41,4 +41,5 @@ I enjoy developing AI products that combine ML pipelines, neural networks, APIs,
 ---
 
 # 👀 Visitor Count:
-[![Visitor Count](https://visitcount.itsvg.in/api?id=AnjaliYadav-04&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=AnjaliYadav-04&icon=0&color=0)
