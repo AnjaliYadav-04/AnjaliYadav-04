@@ -79,7 +79,7 @@ Languages    Python · JavaScript · SQL · R
 - 🔷 Microsoft Power Platform Fundamentals (PL-900)
 - 🤖 AI Skills & Large Language Models (LLMs)
 - ⚙️ DevOps Fundamentals
-- 🔵 Scala Programming
+- 🔵 Scala Programming.
 
 ---
 
