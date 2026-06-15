@@ -37,7 +37,7 @@ I'm an AI/ML Engineer and researcher building **end-to-end intelligent systems**
 | 🛸 [AI Drone Imagery](https://github.com/AnjaliYadav-04/AI-Drone-Imagery) | Python · OpenCV · Scikit-Learn · GeoTIFF · PyTorch | 7-stage ML pipeline, 26-dim feature vectors, 5-class land-cover |
 | 🩺 Breast Cancer MRI (Research) | TensorFlow · U-Net · Grad-CAM · Radiomics | Lead researcher, published findings, false-positive reduction |
 | 🎙️ AI Voice Orchestration | FastAPI · LangGraph · Qwen-1.5B · WebSockets · Django | Sub-second latency, multi-agent workflow, production-grade |
-| 🧠 Brain Tumor Classifier | TensorFlow · CNN · Data Augmentation | Multi-class MRI classification, precision/recall/F1 evaluation |
+| 🧠 [Brain Tumor Classifier](https://github.com/AnjaliYadav-04/Advance_Brain_Tumor_Using_DeepLearning) | TensorFlow · CNN · Data Augmentation | Multi-class MRI classification, precision/recall/F1 evaluation |
 | 📊 [Data Science Analytics](https://github.com/AnjaliYadav-04/data_science_analytics_slooze) | Python · Jupyter · Pandas · Matplotlib | Analytics pipeline with visual storytelling |
 
 ---
