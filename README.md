@@ -12,7 +12,7 @@
 
 I'm an AI/ML Engineer and researcher building **end-to-end intelligent systems** at the intersection of **medical imaging, large language models, and computer vision**. My work spans RAG-powered chatbots deployed on AWS, drone imagery classification pipelines, and published deep learning research on breast cancer MRI diagnosis.
 
-- 🎓 M.Sc. IT (Artificial Intelligence), University of Mumbai — Expected 2027
+- 🎓 B.Sc. IT (Artificial Intelligence), University of Mumbai 
 - 📄 **Lead Author** · IJRDET · Deep Learning–Enhanced Breast MRI (May 2026)
 - ☁️ Experienced with AWS (EC2, ECR), Docker, GitHub Actions CI/CD
 - 🔬 PhD aspirant: Medical AI · Explainable AI · Multimodal Deep Learning
