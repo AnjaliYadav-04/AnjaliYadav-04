@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI / ML Engineer · Medical Imaging Researcher · Agentic Systems Builder</b><br>
-  M.Sc. Artificial Intelligence @ University of Mumbai · Lead Author, IJRDET (May 2026)<br>
+  University of Mumbai · Lead Author, IJRDET (May 2026)<br>
   <a href="mailto:anjalisydv@gmail.com">anjalisydv@gmail.com</a> · <a href="https://www.linkedin.com/in/anjali-yadav-464099257/">LinkedIn</a> · Thane, India
 </p>
 
