@@ -32,15 +32,7 @@ I'm an AI/ML Engineer and researcher building **end-to-end intelligent systems**
 
 <div align="center">
 
-| 🏷️ Project | ⚙️ Stack | 🌟 Highlights |
-|------------|----------|--------------|
-| 🤖 **[CliniqBot — Medical AI Chatbot](https://github.com/AnjaliYadav-04/CliniqBot-Clinical-Intelligence-Chatbot)** | Python · LangChain · GPT-4o · Pinecone · Flask · Docker · AWS | RAG pipeline, ECR/EC2 deployment, GitHub Actions CI/CD |
-| 🛸 **[AI Drone Imagery Analysis](https://github.com/AnjaliYadav-04/AI-Drone-Imagery)** | Python · OpenCV · Scikit-Learn · GeoTIFF · PyTorch | 7-stage ML pipeline, 26-dim feature vectors, 5-class land-cover |
-| 🩺 **Breast Cancer MRI Research** | TensorFlow · U-Net · Grad-CAM · Radiomics | Lead researcher, peer-reviewed publication, false-positive reduction |
-| 🎙️ **AI Voice Orchestration System** | FastAPI · LangGraph · Qwen-1.5B · WebSockets · Django | Sub-second latency, multi-agent workflow, production-grade |
-| 🧠 **[Brain Tumor Classifier](https://github.com/AnjaliYadav-04/Advance_Brain_Tumor_Using_DeepLearning)** | TensorFlow · CNN · Data Augmentation | Multi-class MRI classification, precision/recall/F1 evaluation |
-| 🍽️ **Food Management Web App** | Django · SQLite · Bootstrap · REST APIs · OOP | Full-stack, role-based auth, CRUD, MVC design pattern |
-| 📊 **[Data Science Analytics](https://github.com/AnjaliYadav-04/data_science_analytics_slooze)** | Python · Jupyter · Pandas · Matplotlib | End-to-end analytics pipeline with visual storytelling |
+### 🚀 Featured Projects | Project | Stack | Highlights ||---|---|---|| 🤖 [Medical AI Chatbot](https://github.com/AnjaliYadav-04/CliniqBot-Clinical-Intelligence-Chatbot) | Python · LangChain · Pinecone · Flask · Docker · AWS | RAG pipeline, ECR/EC2 deployment, GitHub Actions CI/CD || 🛸 [AI Drone Imagery](https://github.com/AnjaliYadav-04/AI-Drone-Imagery) | Python · OpenCV · Scikit-Learn · GeoTIFF · PyTorch | 7-stage ML pipeline, 26-dim feature vectors, 5-class land-cover || 🩺 Breast Cancer MRI (Research) | TensorFlow · U-Net · Grad-CAM · Radiomics | Lead researcher, published findings, false-positive reduction || 🎙️ AI Voice Orchestration | FastAPI · LangGraph · Qwen-1.5B · WebSockets · Django | Sub-second latency, multi-agent workflow, production-grade || 🧠 [Brain Tumor Classifier](https://github.com/AnjaliYadav-04/Advance_Brain_Tumor_Using_DeepLearning) | TensorFlow · CNN · Data Augmentation | Multi-class MRI classification, precision/recall/F1 evaluation || 📊 [Data Science Analytics](https://github.com/AnjaliYadav-04/data_science_analytics_slooze) | Python · Jupyter · Pandas · Matplotlib | Analytics pipeline with visual storytelling | ---
 
 </div>
 
