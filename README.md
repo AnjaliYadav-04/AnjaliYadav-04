@@ -7,7 +7,6 @@
 </p>
 
 ---
-
 ### 🧠 About Me
 
 I'm an AI/ML Engineer and researcher building **end-to-end intelligent systems** at the intersection of **medical imaging, large language models, and computer vision**. My work spans RAG-powered chatbots deployed on AWS, drone imagery classification pipelines, and published deep learning research on breast cancer MRI diagnosis.
@@ -87,6 +86,16 @@ Languages    Python · JavaScript · SQL · R
 
 `AI for Medical Imaging` · `Explainable & Trustworthy AI` · `LLMs for Clinical Decision Support`  
 `Computer Vision for Remote Sensing` · `Multimodal Deep Learning` · `Federated & Privacy-Preserving ML`
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anjali-yadav-464099257/)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/anjali78446)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anjalisydv@gmail.com)
 
 ---
 
