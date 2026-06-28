@@ -142,13 +142,34 @@ I'm an AI/ML Engineer and researcher building **end-to-end intelligent systems**
 `Computer Vision for Remote Sensing` · `Multimodal Deep Learning` · `Federated & Privacy-Preserving ML`
 
 ---
+### 🌱 Currently Learning & Exploring
 
-### 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-yadav-464099257/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjalisydv@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/anjali78446)
+- 🧬 **Foundation Models for Medical Imaging** (SAM, BioViL, Med-PaLM)
+- 🕸️ **Graph Neural Networks** for clinical knowledge representation
+- 🧩 **MCP Servers** for agentic tool orchestration
+- 🔒 **Federated Learning** for privacy-preserving hospital data
 
 ---
 
-<p align="center"><i>"Building AI that explains itself, heals people, and understands the world."</i></p>
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-yadav-464099257/)
+[![Email](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjalisydv@gmail.com)
+[![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anjali78446)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=120&section=footer&animation=fadeIn" />
+
+*"Building AI that explains itself, heals people, and understands the world."*
+
+⭐ **If any of my projects helped you, consider giving them a star!** ⭐
+
+</div>
+
