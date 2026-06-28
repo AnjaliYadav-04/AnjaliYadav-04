@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=200&section=header&text=Anjali%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Medical%20Imaging%20Researcher%20%7C%20RAG%20%26%20Agentic%20AI%20Builder&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=200&section=header&text=Anjali%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 </div>
 <h1 align="center">Hi, I'm Anjali Yadav 👩‍💻</h1>
