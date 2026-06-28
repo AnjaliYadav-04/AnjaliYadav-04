@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=200&section=header&text=Anjali%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Medical%20Imaging%20Researcher%20%7C%20RAG%20%26%20Agentic%20AI%20Builder&descAlignY=58&descSize=18" />
 
-<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="0" height="0" />
-
 <!-- 🖼️ AVATAR — Replace the src below with your own image URL -->
 <!-- To get your URL: upload a photo in any GitHub issue/comment → copy the image link -->
 <img src="https://api.dicebear.com/7.x/bottts-neutral/svg?seed=AnjaliYadav&backgroundColor=7F77DD&radius=50&size=120" width="120" height="120" style="border-radius:50%; border: 3px solid #7F77DD;" alt="Anjali Yadav Avatar" />
