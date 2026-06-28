@@ -7,7 +7,7 @@
 </p>
 
 ---
-### 🧠 About Me
+### <div style="background-color:#0d1117; padding:15px; border-radius:10px;">🧠 About Me </div>
 
 I'm an AI/ML Engineer and researcher building **end-to-end intelligent systems** at the intersection of **medical imaging, large language models, and computer vision**. My work spans RAG-powered chatbots deployed on AWS, drone imagery classification pipelines, and published deep learning research on breast cancer MRI diagnosis.
 
