@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anjali Yadav 👩‍💻</h1>
 
 <p align="center">
-  <b>AI / ML Engineer · Medical Imaging Researcher · Agentic Systems Builder</b><br>
+  <b>AI Engineer | Medical Imaging Researcher | RAG & Agentic AI Builder</b><br>
   University of Mumbai · Lead Author, IJRDET (May 2026)<br>
   <a href="mailto:anjalisydv@gmail.com">anjalisydv@gmail.com</a> · <a href="https://www.linkedin.com/in/anjali-yadav-464099257/">LinkedIn</a> · Thane, India
 </p>
