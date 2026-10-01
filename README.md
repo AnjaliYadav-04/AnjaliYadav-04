@@ -141,7 +141,7 @@ I'm an AI/ML Engineer and researcher building **end-to-end intelligent systems**
 
 ---
 
-### 🔭 PhD Research Interests
+### 🔭 Research Interests
 
 `AI for Medical Imaging` · `Explainable & Trustworthy AI` · `LLMs for Clinical Decision Support`  
 `Computer Vision for Remote Sensing` · `Multimodal Deep Learning` · `Federated & Privacy-Preserving ML`
