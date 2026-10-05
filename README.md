@@ -38,15 +38,16 @@ I'm an AI/ML Engineer and researcher building **end-to-end intelligent systems**
 
 <div align="center">
 
-| 🏷️ Project | ⚙️ Stack | 🌟 Highlights |
-|------------|----------|--------------|
-| 🤖 **[CliniqBot — Medical AI Chatbot](https://github.com/AnjaliYadav-04/CliniqBot-Clinical-Intelligence-Chatbot)** | Python · LangChain · GPT-4o · Pinecone · Flask · Docker · AWS | RAG pipeline, ECR/EC2 deployment, GitHub Actions CI/CD |
-| 🛸 **[AI Drone Imagery Analysis](https://github.com/AnjaliYadav-04/AI-Drone-Imagery)** | Python · OpenCV · Scikit-Learn · GeoTIFF · PyTorch | 7-stage ML pipeline, 26-dim feature vectors, 5-class land-cover |
-| 🩺 **Breast Cancer MRI Research** | TensorFlow · U-Net · Grad-CAM · Radiomics | Lead researcher, peer-reviewed publication, false-positive reduction |
-| 🎙️ **AI Voice Orchestration System** | FastAPI · LangGraph · Qwen-1.5B · WebSockets · Django | Sub-second latency, multi-agent workflow, production-grade |
-| 🧠 **[Brain Tumor Classifier](https://github.com/AnjaliYadav-04/Advance_Brain_Tumor_Using_DeepLearning)** | TensorFlow · CNN · Data Augmentation | Multi-class MRI classification, precision/recall/F1 evaluation |
-| 🍽️ **Food Management Web App** | Django · SQLite · Bootstrap · REST APIs · OOP | Full-stack, role-based auth, CRUD, MVC design pattern |
-| 📊 **[Data Science Analytics](https://github.com/AnjaliYadav-04/data_science_analytics_slooze)** | Python · Jupyter · Pandas · Matplotlib | End-to-end analytics pipeline with visual storytelling |
+| Project | Stack | Highlights |
+|---|---|---|
+| 🧭 [PolicyPilot](https://github.com/AnjaliYadav-04/policypilot) | LangGraph · Azure Databricks · Vector Search · MLflow | Agentic RAG over SEC 10-Ks with a code-level citation gate, AI Gateway guardrails, OIDC CI/CD |
+| ☸️ [CortexRAG](https://github.com/AnjaliYadav-04/CortexRAG_Intelligence) | LangGraph · FastAPI · Qdrant · PostgreSQL · Redis | Hybrid retrieval + reranking, CRAG and Self-RAG, human-approved Text2SQL, RAGAS evals |
+| 🩺 [ClinSim Edge](https://github.com/AnjaliYadav-04/ClinSim-Edge) | FastAPI · Llama 3.2 3B · Whisper · Docker | Fully on-device LLM and speech, guarded generation, 9-dimension reasoning evaluator, 72 tests |
+| 🛰️ [AeroInspect AI](https://github.com/AnjaliYadav-04/aeroinspect-ai) | YOLOv8 · FastAPI · React · Mapbox · Redis | Geo-tagged defect detection, live alerts, PDF reports, 10–20x GeoTIFF compression |
+| 🔬 VeriSci | Python · GROBID · docling · Europe PMC | Checks whether a paper's evaluation supports its claims; parsing cascade lifted methods recovery from 11% to 72% |
+| 🤖 [CliniqBot](https://github.com/AnjaliYadav-04/CliniqBot-Clinical-Intelligence-Chatbot) | LangChain · Pinecone · GPT-4o · AWS | RAG chatbot, Docker, ECR/EC2 deployment with GitHub Actions |
+| 📦 [Retail Inventory Analytics](https://github.com/AnjaliYadav-04/data_science_analytics_slooze) | Pandas · statsmodels · Plotly | ABC, EOQ, reorder points, Holt-Winters vs SARIMA demand forecasting |
+| 📄 Breast MRI Deep Learning Review | Systematic review | Peer-reviewed publication, IJRDET 2026 |
 
 </div>
 
